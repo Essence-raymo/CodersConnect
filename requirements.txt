@@ -1,0 +1,7 @@
+Final  # allows us to define constants that shouldn't change
+os  # lets us access environment variables
+discord 
+python-dotenv # helps load environment variables from a .env file
+openai
+openai=0.28.0
+
